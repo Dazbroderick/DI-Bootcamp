@@ -1,1 +1,0 @@
-This is the readme file for Week15\day2\DailyChallenge         
