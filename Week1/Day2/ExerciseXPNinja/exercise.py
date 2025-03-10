@@ -24,7 +24,7 @@ print(len(my_text))
 
 
 
-# Exercise 5
+# Exercise 5 
 
 previous_length = 0
 

@@ -4,7 +4,7 @@ print("Hello world "*4, "I love python "*4)
 # Exercise 2
 month = int(input("Please choose pick a month from 1 to 12: "))
 
-if 3 <= month <= 5:
+if 3 <= month <= 5: 
     print ("The season is Spring.")
 elif 6 <= month <= 8:
     print ("The season is Summer.")
