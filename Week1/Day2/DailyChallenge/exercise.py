@@ -19,6 +19,7 @@ for letter in string:
     x += 1
 
 # Exercise 4
+#Used online help to solve
 import random
 shuffled = list(string)
 random.shuffle(shuffled)
